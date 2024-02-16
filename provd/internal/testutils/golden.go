@@ -14,6 +14,7 @@ import (
 
 var update bool
 
+
 type goldenOptions struct {
 	goldenPath string
 }
